@@ -1,1 +1,1 @@
-# genera_imagen
+# genera imagen a partir de un html
