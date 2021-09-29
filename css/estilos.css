@@ -1,0 +1,37 @@
+.imagen_fondo{
+	width: 422px;
+	height: 422px;
+	/*background-image: url('../images/v2.png');*/
+	background-size: cover;
+	margin: 0 auto;
+	position: relative;
+}
+
+#imagengenerada{
+	margin: 1rem auto;
+	position: relative;
+}
+
+.imagen_foto{
+	/*background-image: url(../images/uploads/alex.png);*/
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 50%;
+    left: 26%;
+    position: absolute;
+    top: 15%;
+}
+
+
+.imagen_texto{
+	padding-top: 17rem;
+    text-align: center;
+}
+
+.imagen_texto h3{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+}
